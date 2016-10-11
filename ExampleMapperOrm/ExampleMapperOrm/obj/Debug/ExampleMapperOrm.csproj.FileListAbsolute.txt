@@ -1,8 +1,0 @@
-c:\users\euroset\documents\visual studio 2012\Projects\ExampleMapperOrm\ExampleMapperOrm\bin\Debug\ExampleMapperOrm.exe
-c:\users\euroset\documents\visual studio 2012\Projects\ExampleMapperOrm\ExampleMapperOrm\bin\Debug\ExampleMapperOrm.pdb
-c:\users\euroset\documents\visual studio 2012\Projects\ExampleMapperOrm\ExampleMapperOrm\obj\Debug\ExampleMapperOrm.exe
-c:\users\euroset\documents\visual studio 2012\Projects\ExampleMapperOrm\ExampleMapperOrm\obj\Debug\ExampleMapperOrm.pdb
-c:\users\euroset\documents\visual studio 2012\Projects\ExampleMapperOrm\ExampleMapperOrm\bin\Debug\ExampleMapperOrm.exe.config
-C:\Users\Euroset\Documents\Visual Studio 2012\Projects\ExampleMapperOrm\ExampleMapperOrm\bin\Debug\MapperOrm.dll
-C:\Users\Euroset\Documents\Visual Studio 2012\Projects\ExampleMapperOrm\ExampleMapperOrm\bin\Debug\MapperOrm.pdb
-C:\Users\Euroset\Documents\Visual Studio 2012\Projects\ExampleMapperOrm\ExampleMapperOrm\obj\Debug\ExampleMapperOrm.csprojResolveAssemblyReference.cache
